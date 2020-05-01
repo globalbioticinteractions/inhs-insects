@@ -1,5 +1,5 @@
 {
-  "format": "dwca", 
+  "format": "application/dwca", 
   "citation": "Illinois Natural History Survey Insect Collection",
   "url": "http://dmitriev.speciesfile.org/Export/insects.zip" 
 }
