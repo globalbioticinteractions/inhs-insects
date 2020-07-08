@@ -7,4 +7,3 @@ Prey,,preysOn,http://purl.obolibrary.org/obo/RO_0002439
 Reared from,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 Parasite of,,parasiteOf,http://purl.obolibrary.org/obo/RO_0002444
 Host,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
-,,parasiteOf,http://purl.obolibrary.org/obo/RO_0002444
