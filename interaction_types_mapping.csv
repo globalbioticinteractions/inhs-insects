@@ -4,7 +4,11 @@ Parasite,,hasParasite,http://purl.obolibrary.org/obo/RO_0002445
 Pollinating,,pollinates,http://purl.obolibrary.org/obo/RO_0002455
 Predator,,preyedUponBy,http://purl.obolibrary.org/obo/RO_0002458
 Prey,,preysOn,http://purl.obolibrary.org/obo/RO_0002439
+Preys on,,preysOn,http://purl.obolibrary.org/obo/RO_0002439
 Reared from,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 Parasite of,,parasiteOf,http://purl.obolibrary.org/obo/RO_0002444
+Attached to,27,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Has biological relationship with,26,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+HostSpecies,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 Host,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 ,,parasiteOf,http://purl.obolibrary.org/obo/RO_0002444
